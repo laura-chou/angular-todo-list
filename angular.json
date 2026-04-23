@@ -95,7 +95,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/angular_todo_list/",
+            "baseHref": "/angular-todo-list/",
             "name": "Laura",
             "email": "laura@gmail.com"
           }
